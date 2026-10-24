@@ -1,6 +1,6 @@
 # Biometric Authentication - Lab 0 (Anaconda)
  
-**Student:** Your Name (ID: 000000)
+**Student:** Wasan (ID: 2316232)
  
 ## Files
 - Lab0_Anaconda.ipynb - my notebook
@@ -9,10 +9,10 @@
 - packages.txt - my installed packages
  
 ## Knowledge check answers
-Q1: _  Q2: _  Q3: _  Q4: _  Q5: _
-Q6: _  Q7: _  Q8: _  Q9: _  Q10: _
-Q11: _ Q12: _ Q13: _ Q14: _ Q15: _
-Q16: _ Q17: _ Q18: _ Q19: _ Q20: _
+Q1: B  Q2: D  Q3: A  Q4: B  Q5: C
+Q6: B  Q7: C  Q8: D  Q9: B  Q10: C
+Q11: A Q12: D Q13: B Q14: C Q15: D
+Q16: B Q17: A Q18: C Q19: B Q20: C
  
 ## Reflection
 The trickiest part of this lab was ...
