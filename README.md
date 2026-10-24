@@ -15,4 +15,4 @@ Q11: A Q12: D Q13: B Q14: C Q15: D
 Q16: B Q17: A Q18: C Q19: B Q20: C
  
 ## Reflection
-The trickiest part of this lab was ...
+The trickiest part of this lab was ... nothing
